@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 /**
  * This class is responsible for merging 2d (sorted) arrays into a 1d sorted array
+ * Completed
  */
 
 public class KLists {
@@ -76,7 +77,7 @@ public class KLists {
     public static void main(String[] args) {
         KLists kLists = new KLists();
 
-	    //double[][] outerArray = {{1.1, 4.4, 5.5}, {1.1, 3.3, 4.4}, {2.2, 6.6}};
+        //double[][] outerArray = {{1.1, 4.4, 5.5}, {1.1, 3.3, 4.4}, {2.2, 6.6}};
         //double[][] outerArray = {};
         //double[][] outerArray = {{}};
 
